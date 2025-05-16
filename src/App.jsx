@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Section from './components/Section';
-import Resume from './components/resume';
+import Resume from './components/resume.jsx';
 import Experience from './components/Experience';
 
 function App() {
