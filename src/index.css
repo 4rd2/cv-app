@@ -1,0 +1,21 @@
+/* index.css */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #f9fafb;
+  color: #1f2937;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Example: style the main content */
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background-color: white;
+}
